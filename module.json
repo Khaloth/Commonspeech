@@ -1,0 +1,23 @@
+{
+  "name": "lang-com",
+  "title": "Commonspeech",
+  "description": "Commonspeech localisation for D&D 5e",
+  "version": "1.0.0",
+  "minimumCoreVersion" : "0.5.3",
+  "compatibleCoreVersion" : "0.6.4",
+  "author": "Jindrich Novak",
+  "systems": ["dnd5e"],
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+    
+  "languages": [{
+  	"lang": "common",
+    "name": "Commonspeech",
+    "path": "commonspeech.json"
+  }],
+    
+    "url": "https://github.com/Khaloth/Commonspeech.git",
+	"manifest": "https://github.com/Khaloth/Commonspeech.git",
+	"download": "https://github.com/Khaloth/Commonspeech.git"
+}
