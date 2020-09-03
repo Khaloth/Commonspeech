@@ -2,7 +2,7 @@
   "name": "lang-com",
   "title": "Commonspeech",
   "description": "Commonspeech localisation for D&D 5e",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "minimumCoreVersion" : "0.5.3",
   "compatibleCoreVersion" : "0.6.4",
   "author": "Jindrich Novak",
