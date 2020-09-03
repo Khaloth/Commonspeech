@@ -17,7 +17,7 @@
     "path": "commonspeech.json"
   }],
     
-    "url": "https://github.com/Khaloth/Commonspeech.git",
-	"manifest": "https://github.com/Khaloth/Commonspeech.git",
+    "url": "https://github.com/Khaloth/Commonspeech",
+	"manifest": "https://raw.githubusercontent.com/Khaloth/Commonspeech/master/module.json",
 	"download": "https://github.com/Khaloth/Commonspeech.git"
 }
