@@ -3,7 +3,7 @@
   "title": "Commonspeech",
   "description": "Commonspeech localisation for D&D 5e",
   "version": "1.0.3",
-  "minimumCoreVersion" : "0.5.3",
+  "minimumCoreVersion" : "0.5.4",
   "compatibleCoreVersion" : "0.7.9",
   "author": "Jindrich Novak",
   "systems": ["dnd5e"],
