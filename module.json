@@ -1,23 +1,37 @@
 {
   "name": "lang-com",
   "title": "Commonspeech",
-  "description": "Commonspeech localisation for D&D 5e",
-  "version": "1.0.4",
-  "minimumCoreVersion" : "0.5.4",
-  "compatibleCoreVersion" : "0.7.9",
-  "author": "Jindrich Novak",
-  "systems": ["dnd5e"],
+  "description": "Commonspeech localisation for D&D 5e.",
+  "version": "1.0.5",
+  "authors": [
+    {
+      "name": "Jindrich Novak",
+      "email": "jindrichnovak0@gmail.com",
+      "url": "https://manuscriptminiatures.com"
+    }
+  ],
   "scripts": [],
+  "esmodules": [],
   "styles": [],
-  "packs": [],
-    
-  "languages": [{
-  	"lang": "common",
-    "name": "Commonspeech",
-    "path": "commonspeech.json"
-  }],
-    
-    "url": "https://github.com/Khaloth/Commonspeech",
-	"manifest": "https://raw.githubusercontent.com/Khaloth/Commonspeech/master/module.json",
-	"download": "https://github.com/Khaloth/Commonspeech.git"
+  "system": "dnd5e",
+  "packs": [
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "dnd5e",
+      "type": "system"
+    }
+  ],
+  "minimumCoreVersion": "0.7.6",
+  "compatibleCoreVersion": "0.7.9",
+  "url": "https://github.com/Khaloth/Commonspeech.git",
+  "manifest": "https://raw.githubusercontent.com/Khaloth/Commonspeech/master/module.json",
+  "download": "https://codeload.github.com/Khaloth/Commonspeech/zip/refs/heads/master"
 }
