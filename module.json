@@ -33,5 +33,5 @@
   "compatibleCoreVersion": "0.7.9",
   "url": "https://github.com/Khaloth/Commonspeech.git",
   "manifest": "https://raw.githubusercontent.com/Khaloth/Commonspeech/master/module.json",
-  "download": "https://codeload.github.com/Khaloth/Commonspeech/zip/refs/heads/master"
+  "download": "https://github.com/Khaloth/Commonspeech/archive/refs/heads/master.zip"
 }
