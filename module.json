@@ -1,7 +1,7 @@
 {
-  "name": "lang-com",
-  "title": "Commonspeech",
-  "description": "Commonspeech localisation for D&D 5e.",
+  "name": "commontongue",
+  "title": "Commontongue",
+  "description": "Commontongue localisation for D&D 5e.",
   "version": "1.0.6",
   "authors": [
     {
@@ -18,7 +18,7 @@
   ],
   "languages": [
     {
-      "lang": "dm",
+      "lang": "ct",
       "name": "Commontongue",
       "path": "commontongue.json"
     }
